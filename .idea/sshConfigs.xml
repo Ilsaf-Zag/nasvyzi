@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="89.111.170.205" id="539f50be-c5fb-4f24-bfdb-9c8570b78db6" port="22" customName="nasv" nameFormat="CUSTOM" username="root" useOpenSSHConfig="false">
+        <option name="customName" value="nasv" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
