@@ -53,7 +53,7 @@ class PaymentController
 
 
         $client = new Client();
-        $client->setAuth('481316', 'test_-lC7GKyNnrhwHSmQEXuVnbD4hRGB5fWxJMgjmHkYKSg');
+        $client->setAuth('350524', 'live_rahgTIcvDUz0av5GOkYu2DZl6yxuApM9glNKTNMD8u8');
         $payment = $client->createPayment(
             array(
                 'amount' => array(
